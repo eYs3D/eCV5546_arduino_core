@@ -1,0 +1,1 @@
+#include "ecv5546_hal.c"
